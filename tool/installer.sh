@@ -23,7 +23,7 @@
 
 set -e
 
-VERSION="10.1.2"
+VERSION="10.1.2" # TODO: Modify current version 
 
 EXIT_SUCCESS=0
 EXIT_INVALID_ARG=1
